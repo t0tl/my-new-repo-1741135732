@@ -1,0 +1,99 @@
+ INFO  Accepting connections at http://localhost:8082
+ HTTP  3/5/2025 12:39:11 AM 172.20.0.1 GET /
+ HTTP  3/5/2025 12:39:11 AM 172.20.0.1 Returned 200 in 14 ms
+ HTTP  3/5/2025 12:39:11 AM 172.20.0.1 GET /_expo/static/css/global-f72a62d2075c8088ba50a67e66d8290e.css
+ HTTP  3/5/2025 12:39:11 AM 172.20.0.1 Returned 200 in 2 ms
+ HTTP  3/5/2025 12:39:12 AM 172.20.0.1 GET /_expo/static/js/web/index-a499d4475543163afdda1645928bfc09.js
+ HTTP  3/5/2025 12:39:12 AM 172.20.0.1 Returned 200 in 3 ms
+ HTTP  3/5/2025 12:39:12 AM 172.20.0.1 GET /favicon.ico
+ HTTP  3/5/2025 12:39:12 AM 172.20.0.1 GET /assets/public/icosahedron.ea5d98412472b7885d87e61ee4b67a63.svg
+ HTTP  3/5/2025 12:39:12 AM 172.20.0.1 Returned 200 in 2 ms
+ HTTP  3/5/2025 12:39:12 AM 172.20.0.1 Returned 200 in 2 ms
+ HTTP  3/5/2025 12:40:22 AM 172.20.0.1 GET /
+ HTTP  3/5/2025 12:40:22 AM 172.20.0.1 Returned 200 in 3 ms
+ HTTP  3/5/2025 12:40:22 AM 172.20.0.1 GET /_expo/static/js/web/index-1a4984ea1e0245299e2a4346d72d6ad4.js
+ HTTP  3/5/2025 12:40:22 AM 172.20.0.1 Returned 200 in 4 ms
+ HTTP  3/5/2025 12:40:22 AM 172.20.0.1 GET /favicon.ico
+ HTTP  3/5/2025 12:40:22 AM 172.20.0.1 Returned 200 in 1 ms
+ HTTP  3/5/2025 12:40:23 AM 172.20.0.1 GET /assets/node_modules/@expo/vector-icons/build/vendor/react-native-vector-icons/Fonts/MaterialCommunityIcons.b62641afc9ab487008e996a5c5865e56.ttf
+ HTTP  3/5/2025 12:40:23 AM 172.20.0.1 Returned 200 in 5 ms
+ HTTP  3/5/2025 12:43:30 AM 172.20.0.1 GET /
+ HTTP  3/5/2025 12:43:30 AM 172.20.0.1 Returned 200 in 1 ms
+ HTTP  3/5/2025 12:43:30 AM 172.20.0.1 GET /_expo/static/js/web/index-0aff0db124a387807a085bc84a0c63f6.js
+ HTTP  3/5/2025 12:43:30 AM 172.20.0.1 Returned 200 in 4 ms
+ HTTP  3/5/2025 12:43:31 AM 172.20.0.1 GET /favicon.ico
+ HTTP  3/5/2025 12:43:31 AM 172.20.0.1 Returned 200 in 1 ms
+ HTTP  3/5/2025 12:43:31 AM 172.20.0.1 GET /assets/node_modules/@expo/vector-icons/build/vendor/react-native-vector-icons/Fonts/MaterialCommunityIcons.b62641afc9ab487008e996a5c5865e56.ttf
+ HTTP  3/5/2025 12:43:31 AM 172.20.0.1 Returned 200 in 4 ms
+ HTTP  3/5/2025 12:44:08 AM 172.20.0.1 GET /
+ HTTP  3/5/2025 12:44:08 AM 172.20.0.1 Returned 200 in 1 ms
+ HTTP  3/5/2025 12:44:08 AM 172.20.0.1 GET /_expo/static/js/web/index-0aff0db124a387807a085bc84a0c63f6.js
+ HTTP  3/5/2025 12:44:08 AM 172.20.0.1 Returned 200 in 1 ms
+ HTTP  3/5/2025 12:44:09 AM 172.20.0.1 GET /favicon.ico
+ HTTP  3/5/2025 12:44:09 AM 172.20.0.1 Returned 200 in 0 ms
+ HTTP  3/5/2025 12:44:09 AM 172.20.0.1 GET /assets/node_modules/@expo/vector-icons/build/vendor/react-native-vector-icons/Fonts/MaterialCommunityIcons.b62641afc9ab487008e996a5c5865e56.ttf
+ HTTP  3/5/2025 12:44:09 AM 172.20.0.1 Returned 200 in 1 ms
+ HTTP  3/5/2025 12:44:56 AM 172.20.0.1 GET /
+ HTTP  3/5/2025 12:44:56 AM 172.20.0.1 Returned 200 in 1 ms
+ HTTP  3/5/2025 12:44:56 AM 172.20.0.1 GET /_expo/static/js/web/index-0aff0db124a387807a085bc84a0c63f6.js
+ HTTP  3/5/2025 12:44:56 AM 172.20.0.1 Returned 200 in 0 ms
+ HTTP  3/5/2025 12:44:57 AM 172.20.0.1 GET /favicon.ico
+ HTTP  3/5/2025 12:44:57 AM 172.20.0.1 Returned 200 in 1 ms
+ HTTP  3/5/2025 12:44:57 AM 172.20.0.1 GET /assets/node_modules/@expo/vector-icons/build/vendor/react-native-vector-icons/Fonts/MaterialCommunityIcons.b62641afc9ab487008e996a5c5865e56.ttf
+ HTTP  3/5/2025 12:44:57 AM 172.20.0.1 Returned 200 in 1 ms
+ HTTP  3/5/2025 12:47:06 AM 172.20.0.1 GET /
+ HTTP  3/5/2025 12:47:06 AM 172.20.0.1 Returned 200 in 1 ms
+ HTTP  3/5/2025 12:47:06 AM 172.20.0.1 GET /_expo/static/js/web/index-bb7b4927bc9145d2928ef002d031c487.js
+ HTTP  3/5/2025 12:47:06 AM 172.20.0.1 Returned 200 in 4 ms
+ HTTP  3/5/2025 12:47:07 AM 172.20.0.1 GET /favicon.ico
+ HTTP  3/5/2025 12:47:07 AM 172.20.0.1 Returned 200 in 1 ms
+ HTTP  3/5/2025 12:47:07 AM 172.20.0.1 GET /assets/node_modules/@expo/vector-icons/build/vendor/react-native-vector-icons/Fonts/MaterialCommunityIcons.b62641afc9ab487008e996a5c5865e56.ttf
+ HTTP  3/5/2025 12:47:07 AM 172.20.0.1 Returned 200 in 4 ms
+ HTTP  3/5/2025 12:48:34 AM 172.20.0.1 GET /
+ HTTP  3/5/2025 12:48:34 AM 172.20.0.1 Returned 200 in 1 ms
+ HTTP  3/5/2025 12:48:34 AM 172.20.0.1 GET /_expo/static/js/web/index-bb7b4927bc9145d2928ef002d031c487.js
+ HTTP  3/5/2025 12:48:34 AM 172.20.0.1 Returned 200 in 0 ms
+ HTTP  3/5/2025 12:48:35 AM 172.20.0.1 GET /favicon.ico
+ HTTP  3/5/2025 12:48:35 AM 172.20.0.1 Returned 200 in 0 ms
+ HTTP  3/5/2025 12:48:35 AM 172.20.0.1 GET /assets/node_modules/@expo/vector-icons/build/vendor/react-native-vector-icons/Fonts/MaterialCommunityIcons.b62641afc9ab487008e996a5c5865e56.ttf
+ HTTP  3/5/2025 12:48:35 AM 172.20.0.1 Returned 200 in 1 ms
+ HTTP  3/5/2025 12:49:02 AM 172.20.0.1 GET /
+ HTTP  3/5/2025 12:49:02 AM 172.20.0.1 Returned 200 in 1 ms
+ HTTP  3/5/2025 12:49:02 AM 172.20.0.1 GET /_expo/static/js/web/index-25c8e9e530ca997db01c3953316b7a73.js
+ HTTP  3/5/2025 12:49:02 AM 172.20.0.1 Returned 200 in 3 ms
+ HTTP  3/5/2025 12:49:03 AM 172.20.0.1 GET /favicon.ico
+ HTTP  3/5/2025 12:49:03 AM 172.20.0.1 Returned 200 in 2 ms
+ HTTP  3/5/2025 12:49:03 AM 172.20.0.1 GET /assets/node_modules/@expo/vector-icons/build/vendor/react-native-vector-icons/Fonts/MaterialCommunityIcons.b62641afc9ab487008e996a5c5865e56.ttf
+ HTTP  3/5/2025 12:49:03 AM 172.20.0.1 Returned 200 in 4 ms
+ HTTP  3/5/2025 12:49:15 AM 172.20.0.1 GET /
+ HTTP  3/5/2025 12:49:15 AM 172.20.0.1 Returned 200 in 1 ms
+ HTTP  3/5/2025 12:49:15 AM 172.20.0.1 GET /_expo/static/js/web/index-25c8e9e530ca997db01c3953316b7a73.js
+ HTTP  3/5/2025 12:49:15 AM 172.20.0.1 Returned 200 in 0 ms
+ HTTP  3/5/2025 12:49:16 AM 172.20.0.1 GET /favicon.ico
+ HTTP  3/5/2025 12:49:16 AM 172.20.0.1 Returned 200 in 1 ms
+ HTTP  3/5/2025 12:49:16 AM 172.20.0.1 GET /assets/node_modules/@expo/vector-icons/build/vendor/react-native-vector-icons/Fonts/MaterialCommunityIcons.b62641afc9ab487008e996a5c5865e56.ttf
+ HTTP  3/5/2025 12:49:16 AM 172.20.0.1 Returned 200 in 1 ms
+ HTTP  3/5/2025 12:49:20 AM 172.20.0.1 GET /assets/node_modules/@react-navigation/elements/lib/module/assets/back-icon.35ba0eaec5a4f5ed12ca16fabeae451d.png
+ HTTP  3/5/2025 12:49:20 AM 172.20.0.1 Returned 200 in 1 ms
+ HTTP  3/5/2025 12:51:36 AM 172.20.0.1 GET /assets/node_modules/@react-navigation/elements/lib/module/assets/back-icon.35ba0eaec5a4f5ed12ca16fabeae451d.png
+ HTTP  3/5/2025 12:51:36 AM 172.20.0.1 Returned 200 in 1 ms
+ HTTP  3/5/2025 12:52:58 AM 172.20.0.1 GET /
+ HTTP  3/5/2025 12:52:58 AM 172.20.0.1 Returned 200 in 1 ms
+ HTTP  3/5/2025 12:52:59 AM 172.20.0.1 GET /_expo/static/js/web/index-b30aa3b4a11a46bfca2903145d5f7f50.js
+ HTTP  3/5/2025 12:52:59 AM 172.20.0.1 Returned 200 in 2 ms
+ HTTP  3/5/2025 12:52:59 AM 172.20.0.1 GET /favicon.ico
+ HTTP  3/5/2025 12:52:59 AM 172.20.0.1 Returned 200 in 1 ms
+ HTTP  3/5/2025 12:54:11 AM 172.20.0.1 GET /
+ HTTP  3/5/2025 12:54:11 AM 172.20.0.1 Returned 200 in 0 ms
+ HTTP  3/5/2025 12:54:11 AM 172.20.0.1 GET /_expo/static/js/web/index-b30aa3b4a11a46bfca2903145d5f7f50.js
+ HTTP  3/5/2025 12:54:11 AM 172.20.0.1 Returned 200 in 1 ms
+ HTTP  3/5/2025 12:54:11 AM 172.20.0.1 GET /favicon.ico
+ HTTP  3/5/2025 12:54:11 AM 172.20.0.1 Returned 200 in 1 ms
+ HTTP  3/5/2025 12:54:38 AM 172.20.0.1 GET /
+ HTTP  3/5/2025 12:54:38 AM 172.20.0.1 Returned 200 in 1 ms
+ HTTP  3/5/2025 12:54:38 AM 172.20.0.1 GET /_expo/static/js/web/index-b30aa3b4a11a46bfca2903145d5f7f50.js
+ HTTP  3/5/2025 12:54:38 AM 172.20.0.1 Returned 200 in 5 ms
+ HTTP  3/5/2025 1:02:58 AM 172.20.0.1 GET /
+ HTTP  3/5/2025 1:02:58 AM 172.20.0.1 Returned 200 in 2 ms
+ HTTP  3/5/2025 1:02:58 AM 172.20.0.1 GET /favicon.ico
+ HTTP  3/5/2025 1:02:58 AM 172.20.0.1 Returned 200 in 2 ms

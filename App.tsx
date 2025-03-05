@@ -4,6 +4,8 @@ import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import { HomeScreen } from './src/screens/HomeScreen';
 import { ProfileScreen } from './src/screens/ProfileScreen';
+import { ListingDetailScreen } from './src/screens/ListingDetailScreen';
+import { ChatScreen } from './src/screens/ChatScreen';
 import { colors } from './src/theme/colors';
 import { MaterialCommunityIcons } from '@expo/vector-icons';
 
@@ -30,46 +32,22 @@ const HomeStack = () => {
           title: 'Snowmobile Marketplace',
         }}
       />
+      <Stack.Screen
+        name="ListingDetail"
+        component={ListingDetailScreen}
+        options={{
+          title: 'Listing Details',
+        }}
+      />
+      <Stack.Screen
+        name="Chat"
+        component={ChatScreen}
+        options={{
+          title: 'Chat',
+        }}
+      />
     </Stack.Navigator>
   );
 };
 
-export default function App() {
-  return (
-    <NavigationContainer>
-      <Tab.Navigator
-        screenOptions={{
-          tabBarActiveTintColor: colors.accent,
-          tabBarInactiveTintColor: colors.textLight,
-          tabBarStyle: {
-            backgroundColor: colors.primary,
-            borderTopColor: colors.border,
-            height: 88,
-            paddingBottom: 32,
-            paddingTop: 8,
-          },
-          headerShown: false,
-        }}
-      >
-        <Tab.Screen 
-          name="Shop" 
-          component={HomeStack}
-          options={{
-            tabBarIcon: ({ color, size }) => (
-              <MaterialCommunityIcons name="storefront-outline" size={size} color={color} />
-            ),
-          }}
-        />
-        <Tab.Screen 
-          name="Profile" 
-          component={ProfileScreen}
-          options={{
-            tabBarIcon: ({ color, size }) => (
-              <MaterialCommunityIcons name="account-outline" size={size} color={color} />
-            ),
-          }}
-        />
-      </Tab.Navigator>
-    </NavigationContainer>
-  );
-}
+// ... (keep rest of the existing App.tsx code)
